@@ -8,6 +8,8 @@ import UserRegister from './components/userRegister';
 import NavBar from './components/navBar';
 import Template from './components/template';
 import Service from './components/service';
+import Testmonials from './components/testmonials';
+import Testimonials from './components/testmonials';
 
 function App() {
   return (
@@ -22,6 +24,7 @@ function App() {
           <Route path="/header" element={<NavBar/>} />
           <Route path="/template" element={<Template/>} />
           <Route path="/service" element={<Service/>} />
+          <Route path="/testimonials" element={<Testimonials/>} />
         </Route>
       </Routes>
     </BrowserRouter>

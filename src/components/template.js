@@ -2,7 +2,6 @@ import Carousel from 'react-bootstrap/Carousel';
 
 function Template() {
   return (
-      <div>
           <div>
             <Carousel>
                 <Carousel.Item>
@@ -18,7 +17,6 @@ function Template() {
                 </Carousel.Item>
             </Carousel>
           </div>
-      </div>
 
   );
 }

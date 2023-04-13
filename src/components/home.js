@@ -4,6 +4,7 @@ import Footer from './footer'
 import NavBar from './navBar'
 import Service from './service'
 import Template from './template'
+import Testimonials from './testmonials'
 
 function Home() {
   return (
@@ -12,6 +13,7 @@ function Home() {
         <Template/>
         <Service/>
         <Contact/>
+        <Testimonials/>
         <Footer/>
     </div>
   )

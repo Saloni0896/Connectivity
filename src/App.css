@@ -32,3 +32,9 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
+.testimonialimg{
+  border-radius: 50%;
+  width: 40px !important;
+  height:40px;
+  align-items: center;
+}
