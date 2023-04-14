@@ -13,7 +13,6 @@ function Home() {
         <Template/>
         <Service/>
         <Contact/>
-        <Testimonials/>
         <Footer/>
     </div>
   )

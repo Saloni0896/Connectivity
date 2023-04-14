@@ -20,10 +20,7 @@ function NavBar() {
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" href="#">Contact Us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#">Testimonials</a>
-                        </li>
+                        </li>          
                     </ul>          
                 </div>
                 </div>
